@@ -1,0 +1,2 @@
+# Dashboard
+MCMagic Dashboard
